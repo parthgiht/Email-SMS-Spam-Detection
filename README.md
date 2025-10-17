@@ -1,5 +1,5 @@
 # 📧 Email/SMS Spam Detection
-This project implements a machine learning-based Email/SMS Spam Classifier to detect whether a given message is spam or not. The classifier uses Natural Language Processing (NLP) techniques to preprocess text data and a Multinomial Naive Bayes model for classification. The project includes a Jupyter Notebook for model training and a Streamlit web application for user interaction.
+This project implements a machine learning-based Email/SMS Spam Classifier to detect whether a given message is spam or not. The classifier uses **Natural Language Processing (NLP)** techniques to preprocess text data and a Multinomial **Naive Bayes** model for classification. The project includes a Jupyter Notebook for model training and a Streamlit web application for user interaction.
 
 ![image alt](https://github.com/parthgiht/Email-SMS-Spam-Detection/blob/main/Email%20spam.jpg?raw=true)
 
